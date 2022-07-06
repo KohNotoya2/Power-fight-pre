@@ -1,0 +1,54 @@
+
+body {
+    text-align: center;
+    text-decoration: none;
+    background: linear-gradient(#509430 0%, #c8bc10 , #3b18b9 100%);
+
+}
+
+.menu{
+    position: fixed;
+    background: white;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index:10;
+    background: linear-gradient(#e10b0b 0%, #11db44 50%);
+    color: red;
+
+}
+
+.links{
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+#about-power{
+    font-size: 30px;
+    color: greenyellow;
+}
+
+h1 {
+    color: red;
+    font-size: 60px;
+}
+
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+.profile {
+    border-radius: 50%;
+}
+
+.style {
+    font-size: 40px;
+    color: blue;
+}
